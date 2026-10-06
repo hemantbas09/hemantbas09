@@ -15,11 +15,11 @@
 
 ## 💫 About Me
 
-- 🌱 Currently learning: _add what you're learning (e.g. Java, advanced Angular, RxJS)_
-- 👯 Looking to **collaborate** on interesting projects
-- 🤝 Looking for help with: _add topics_
-- 💬 Ask me about: _Angular, TypeScript, HTML/CSS, JavaScript_
-- ⚡ Fun fact: _add something fun here_
+- 🌱 Currently learning: Angular, RxJS, and modern frontend architecture
+- 👯 Looking to **collaborate** on meaningful web projects and innovative ideas
+- 🤝 Looking for help with: frontend performance, scalable UI patterns, and clean code practices
+- 💬 Ask me about: Angular, TypeScript, HTML/CSS, JavaScript, and frontend development
+- ⚡ Fun fact: I enjoy turning ideas into practical, user-friendly digital experiences
 
 ---
 
@@ -50,10 +50,10 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Project Name](https://github.com/hemantbas09) | One-line description | Angular, TypeScript |
-| [Project Name](https://github.com/hemantbas09) | One-line description | _tech_ |
+| [Sarkar Web](https://github.com/hemantbas09/SarkarWeb) | A centralized Nepal government web portal and entry point for public services, information, and digital access | Angular, TypeScript |
+| [Safe Nepal](https://github.com/hemantbas09/SafeNepal) | A safety-focused platform for a Nepali organization or NGO, designed to support awareness, protection, and community outreach | Angular, TypeScript |
 
-> Replace the links with the exact repo URLs.
+> 
 
 ---
 
