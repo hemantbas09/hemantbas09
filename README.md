@@ -50,8 +50,8 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Sarkar Web](https://github.com/hemantbas09/SarkarWeb) | A centralized Nepal government web portal and entry point for public services, information, and digital access | Angular, TypeScript |
-| [Safe Nepal](https://github.com/hemantbas09/SafeNepal) | A safety-focused platform for a Nepali organization or NGO, designed to support awareness, protection, and community outreach | Angular, TypeScript |
+| [Sarkar Web](https://sarkarweb.vercel.app/) | A centralized Nepal government web portal and entry point for public services, information, and digital access | Angular, TypeScript |
+| [Safe Nepal](https://hemantbas09.github.io/SafeNepal/#/) | A safety-focused platform for a Nepali organization or NGO, designed to support awareness, protection, and community outreach | Angular, TypeScript |
 
 > 
 
